@@ -10,7 +10,7 @@ This project involves analyzing website traffic data to uncover insights about u
 
 **File:** traffic.csv
 
-**Description: **Contains records of website traffic, including fields like date, unique visitors, total visits, bounce rate, session duration, and traffic sources.
+**Description:** Contains records of website traffic, including fields like date, unique visitors, total visits, bounce rate, session duration, and traffic sources.
 
 **Data Source:** https://www.kaggle.com/datasets/bhanupratapbiswas/website-traffic-analysis
 
